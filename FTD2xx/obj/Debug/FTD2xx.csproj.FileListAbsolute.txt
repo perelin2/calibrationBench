@@ -1,0 +1,7 @@
+C:\Users\diana.colombo\Documents\Visual Studio 2015\Projects\CalProj\FTD2xx\bin\Debug\FTD2xx.dll
+C:\Users\diana.colombo\Documents\Visual Studio 2015\Projects\CalProj\FTD2xx\bin\Debug\FTD2xx.pdb
+C:\Users\diana.colombo\Documents\Visual Studio 2015\Projects\CalProj\FTD2xx\obj\Debug\FTD2xx.dll
+C:\Users\diana.colombo\Documents\Visual Studio 2015\Projects\CalProj\FTD2xx\obj\Debug\FTD2xx.pdb
+C:\Users\diana.colombo\Documents\Visual Studio 2015\Projects\CalProj\FTD2xx\bin\Debug\FTD2XX_NET.dll
+C:\Users\diana.colombo\Documents\Visual Studio 2015\Projects\CalProj\FTD2xx\bin\Debug\FTD2XX_NET.xml
+C:\Users\diana.colombo\Documents\Visual Studio 2015\Projects\CalProj\FTD2xx\obj\Debug\FTD2xx.csprojResolveAssemblyReference.cache
